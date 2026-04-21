@@ -83,4 +83,7 @@ def reverse_iteration(data):
         else:
             print (result)
             
-reverse_iteration()
+# reverse_iteration((1,2,3,4,5)) #tuple 
+# reverse_iteration({1,2,3}) #set
+# reverse_iteration('Shiv') #string
+# reverse_iteration(123)
